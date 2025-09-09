@@ -1,6 +1,8 @@
 # Azure Hub & Spoke Deployment (Terraform + Terragrunt)
 
 This repository contains a minimal Azure hub-and-spoke virtual network topology using Terraform modules orchestrated by Terragrunt.
+![Uploading ChatGPT Image Sep 9, 2025, 02_12_31 PM.png…]()
+
 
 ## Structure
 ```
